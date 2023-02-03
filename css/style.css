@@ -1,0 +1,23 @@
+img{
+    size: 2em;
+    height: 200px;
+    width: 400px;
+}
+h1{
+    grid: flex;
+    float:left;
+    flex-wrap: auto;
+    width: 50%;
+    width: 400px;
+}
+header{
+    float: left;
+    grid:flex;
+    float:left;
+    font-size: 12px;
+}
+body{
+    display: grid;
+    align-items: center;
+
+}

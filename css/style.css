@@ -41,9 +41,16 @@ img {
     flex:auto;
     flex:grid;
     float:right;
+    align:center;
 }
 h1 {
     align-items: center;
     align-content: center;
     align: center;
+}
+nav{
+    grid:flex;
+    flex:auto;
+    grid:auto;
+    grid: 200px 200px 200px;
 }

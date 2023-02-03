@@ -35,3 +35,15 @@ a{
     grid: 20px 20px 20px;
     row-gap: 20px;
 }
+img {
+    max-width: 100%;
+    grid:auto;
+    flex:auto;
+    flex:grid;
+    float:right;
+}
+h1 {
+    align-items: center;
+    align-content: center;
+    align: center;
+}
